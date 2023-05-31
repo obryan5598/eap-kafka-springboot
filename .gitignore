@@ -1,0 +1,4 @@
+.env
+.java-version
+target/
+.idea/
